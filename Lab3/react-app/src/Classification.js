@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { GaussianDistribution } from './GaussianDistribution';
 import Chart from './Chart';
+import './Classification.css'; // Импорт стилей
 
 const Classification = () => {
   const mean1 = 0; // ср знач для кл 1
@@ -48,10 +49,12 @@ const Classification = () => {
   }, [calculateErrors]);
 
   return (
-    <div>
-      <div>
+    <div className="classification-container">
+      <h3>Classification using Gaussian distributions</h3>
+
+      <div className="input-group">
         <label>
-          Априорная вероятность для класса 1:
+          Prior probability for class 1:
           <input
             type="number"
             step="0.1" 
@@ -66,9 +69,9 @@ const Classification = () => {
             }}
           />
         </label>
-        <br />
+        
         <label>
-          Априорная вероятность для класса 2:
+          Prior probability for class 2:
           <input
             type="number"
             step="0.1" 
@@ -85,11 +88,10 @@ const Classification = () => {
         </label>
       </div>
 
-      <div>
-        <h3>Результаты:</h3>
-        <p>Вероятность ложной тревоги: {error.falseAlarm}</p>
-        <p>Вероятность пропуска обнаружения: {error.miss}</p>
-        <p>Вероятность суммарной ошибки классификации: {error.totalError}</p>
+      <div className="results">
+        <p><strong>False alarm probability:</strong> {error.falseAlarm}</p>
+        <p><strong>Missed detection probability:</strong> {error.miss}</p>
+        <p><strong>Probability of total classification error:</strong> {error.totalError}</p>
       </div>
 
       <Chart mean1={mean1} stdDev1={stdDev1} mean2={mean2} stdDev2={stdDev2} prior1={prior1} prior2={prior2} />
