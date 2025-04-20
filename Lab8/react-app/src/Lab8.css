@@ -1,0 +1,84 @@
+.lab8-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #fff5f5;
+    color: #660000;
+  }
+  
+  .lab8-title {
+    color: #b30000;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .lab8-input-block,
+  .lab8-result-block,
+  .lab8-description {
+    margin-bottom: 20px;
+    animation: fadeIn 0.6s ease;
+  }
+  
+  .lab8-textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #cc0000;
+    border-radius: 4px;
+    background-color: #ffeaea;
+    color: #660000;
+  }
+  
+  .lab8-button {
+    padding: 10px 20px;
+    margin: 10px 5px 0 0;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.2s;
+  }
+  
+  .lab8-button.primary {
+    background-color: #cc0000;
+    color: #fff;
+  }
+  
+  .lab8-button.secondary {
+    background-color: #990000;
+    color: #fff;
+  }
+  
+  .lab8-button:hover {
+    transform: scale(1.05);
+    filter: brightness(1.1);
+  }
+  
+  .lab8-grammar {
+    background-color: #ffeaea;
+    padding: 15px;
+    border-radius: 4px;
+    white-space: pre-wrap;
+    border: 1px solid #cc0000;
+  }
+  
+  .lab8-sequence {
+    background-color: #ffcccc;
+    padding: 15px;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: bold;
+    border: 1px solid #cc0000;
+  }
+  
+  .lab8-output {
+    margin-top: 20px;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  

@@ -75,12 +75,12 @@ function App() {
     setError('');
     setResult('');
     
-  // Сортируем элементы по вертикали (сверху вниз)
+  // Сортируем элементы по вертикали (сверху вниз)  
   const sortedElements = [...elements].sort((a, b) => a.y - b.y);
-  
+
   // Создаем последовательность типов элементов в порядке сверху вниз
   const sequence = sortedElements.map(el => el.type);
-    
+  
     // Проверяем по грамматике
     try {
       const remaining = tryParse(sequence, 'Face');
