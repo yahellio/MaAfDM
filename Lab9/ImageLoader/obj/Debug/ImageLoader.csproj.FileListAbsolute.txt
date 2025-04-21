@@ -1,0 +1,12 @@
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\ImageLoader\bin\Debug\ImageLoader.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\ImageLoader\bin\Debug\ImageLoader.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\ImageLoader\obj\Debug\ImageLoader.csproj.AssemblyReference.cache
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\ImageLoader\obj\Debug\ImageLoader.csproj.CoreCompileInputs.cache
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\ImageLoader\obj\Debug\ImageLoader.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\ImageLoader\obj\Debug\ImageLoader.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\ImageLoader\bin\Debug\ImageLoader.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\ImageLoader\bin\Debug\ImageLoader.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\ImageLoader\obj\Debug\ImageLoader.csproj.AssemblyReference.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\ImageLoader\obj\Debug\ImageLoader.csproj.CoreCompileInputs.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\ImageLoader\obj\Debug\ImageLoader.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\ImageLoader\obj\Debug\ImageLoader.pdb

@@ -1,0 +1,105 @@
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\MainPart.exe.config
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\MainPart.exe
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\MainPart.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\ImageLoader.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\NeuralNetwork.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\ImageLoader.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\NeuralNetwork.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainPart.csproj.AssemblyReference.cache
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainWindow.baml
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainWindow.g.cs
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\App.g.cs
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainPart_MarkupCompile.cache
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainPart.g.resources
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainPart.Properties.Resources.resources
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainPart.csproj.GenerateResource.cache
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainPart.csproj.CoreCompileInputs.cache
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainPart.csproj.Up2Date
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainPart.exe
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\MainPart\obj\Debug\MainPart.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\MainPart.exe.config
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\MainPart.exe
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\MainPart.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\ImageLoader.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\NeuralNetwork.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\ImageLoader.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\NeuralNetwork.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainPart.csproj.AssemblyReference.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainWindow.baml
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainWindow.g.cs
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\App.g.cs
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainPart_MarkupCompile.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainPart.g.resources
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainPart.Properties.Resources.resources
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainPart.csproj.GenerateResource.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainPart.csproj.CoreCompileInputs.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainPart.csproj.Up2Date
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainPart.exe
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\MainPart\obj\Debug\MainPart.pdb
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\MainPart.exe.config
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\MainPart.exe
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\MainPart.pdb
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\ImageLoader.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\NeuralNetwork.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\ImageLoader.pdb
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\NeuralNetwork.pdb
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainPart.csproj.AssemblyReference.cache
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainWindow.baml
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainWindow.g.cs
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\App.g.cs
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainPart_MarkupCompile.cache
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainPart.g.resources
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainPart.Properties.Resources.resources
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainPart.csproj.GenerateResource.cache
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainPart.csproj.CoreCompileInputs.cache
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainPart.csproj.Up2Date
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainPart.exe
+D:\Coding\Projects\MIAPR\MaAfDM\Lab9\MainPart\obj\Debug\MainPart.pdb

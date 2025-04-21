@@ -1,0 +1,12 @@
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Users\dippe\OneDrive\Рабочий стол\PORTAL\DMaA-9\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Users\dippe\OneDrive\Рабочий стол\БГУИР\2 курс\МИАПР\9 лаба\Laba9\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
